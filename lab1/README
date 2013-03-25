@@ -1,0 +1,6 @@
+Steven Morad smorad@ucsc.edu 
+unix3.ic.ucsc.edu
+
+Makefile and hello.java files are from Professor Mackey
+
+The reason you cannot see the directory through the web interface is because it starts with a period. The period makes the folder invisible unless you do ls -la.
